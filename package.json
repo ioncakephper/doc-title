@@ -1,0 +1,11 @@
+{
+  "name": "doc-title",
+  "version": "1.0.0",
+  "description": "convert string into either title or sentence case",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "shytiger@yahoo.com Ion Gireada",
+  "license": "ISC"
+}
